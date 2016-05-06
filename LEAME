@@ -1,0 +1,6 @@
+En este repositorio encontrará dos archivos .ino para Arduino.
+Proyecto_BT_UAO.ino es el sketch que se uso para la prueba del circuito. por lo que tiene dos entradas digitales habilitadas
+Bluetooth_Android.ino es el sketch para hacer la conexión mediante bluetooth.
+
+Para hacer la comunicación BT se debe combinar los dos archivos.
+Cualquier inquietud puede preguntar. mirxtrem.apps@gmail.com
